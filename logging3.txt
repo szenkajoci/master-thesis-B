@@ -1,0 +1,11 @@
+
+Error	2.9662223555086626	159.50042176192974	21.56730737830958	0.03017577003033314	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	3.2639085465627167	435.88761421988966	19.28770719382608	0.1163556436408604	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	7.026541542015629	10.009520804547176	15.438892938140253	0.004451527609496503	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	9.932838949208119	3.2502241262336438	10.075704481558533	0.0023336516181623615	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	2.2539185288104213	594.9445920040924	15.242291256285059	0.1708861648871686	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	7.635203470607778	28.56094435468998	13.26716722847477	0.011566045099367065	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	6.886470332169676	57.26609308887308	12.749125136445388	0.027005665474938767	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	1.536897822942426	383.2399865012037	18.456455849271904	0.07690699471530894	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	3.4075833032629075	351.5408386508749	10.393326848361546	0.15470899468479582	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
+Error	3.706171001451488	271.73019599723006	18.1633679908282	0.07653376197939088	err=ValueError('math domain error')	type(err)=<class 'ValueError'>
